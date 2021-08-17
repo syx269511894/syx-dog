@@ -64,7 +64,7 @@ inputs:
           name: 8jd_cfdqiqiu
           cronExpression: "1,30 0-23/1 * * *"
           enable: true
-          argument: jd_super_mh&&jd_guaxiaolong&jd_cfdqiqiu&jd_bookshop&jd_half_redrain&jd_speed&jd_lotteryMachine&jd_rankingList&jd_dogsEmploy&gua_wealth_island_help&jd_health&jd_health_collect&jd_super_mh&jd_live_redrain&jd_super_redrain
+          argument: jd_super_mh&jd_guaxiaolong&jd_cfdqiqiu&jd_bookshop&jd_half_redrain&jd_speed&jd_lotteryMachine&jd_rankingList&jd_dogsEmploy&gua_wealth_island_help&jd_health&jd_health_collect&jd_super_mh&jd_live_redrain&jd_super_redrain
     - timer: #汽车生活节#京东零食街#特物Z简爱#特务Zx佳沛#超级粉丝互动#伊利养牛记(QQ星)#极速赚金币 种水果#柠檬许愿池#柠檬大富翁#柠檬七夕情报局#东东泡泡大战#旺财乐园#发财大赢家#柠檬是兄弟#来电好物季#荣耀焕新季#星系牧场#全民运动会守卫红包#京东全民开红包
         parameters:
           name: 9jd_lsj
