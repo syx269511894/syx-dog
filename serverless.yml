@@ -44,7 +44,7 @@ inputs:
     - timer: #京喜签到新签到#宠汪汪偷狗粮#汪汪乐园养joy
         parameters:
           name: 5joy_park
-          cronExpression: "03 0 0-23/1 * * *"
+          cronExpression: "40,1 0-23/1 * * *"
           enable: true
           argument: jd_jxqd_new&jd_joy_park&jd_joy_steal&jd_joypark_joy&
     - timer: #京东秒秒币#真·抢京豆#早起赢现金#升级赚京豆#早起福利#签到脚本#愤怒的现金#天天优惠大乐透#赚30元 #领金贴#新潮品牌狂欢#京喜领88元红包#京喜签到#京喜签到新签到#幸运大转盘#闪购盲盒#来客有礼小程序#柠檬邀请有礼#抢京豆#宠汪汪赛跑助力#京东到家鲜豆任务#京东到家果园 #京东到家果园水车#京东到家鲜豆庄园收水滴#京东到家鲜豆庄园#京东签到图形验证
@@ -56,7 +56,7 @@ inputs:
     - timer: #清空购物车#财富大陆#财富岛红包#美丽研究院#东东农场#宠汪汪#点点券#手机狂欢城#手机狂欢城活动#热血心跳,狂解压#发财大赢家助力#粉丝互动#金机奖投票#5G超级盲盒
         parameters:
           name: 7jd_mohe
-          cronExpression: "12 0 0-23/1 * * *"
+          cronExpression: "1,1 0-23/1 * * *"
           enable: true
           argument: jd_cleancart&gua_wealth_island&jd_beauty&jd_fruit&jd_joy&jd_joy_feedPets&jd_joy_help&jd_joypark_task&jd_joy_park_help&jd_jxnc&adolf_jxhb&jd_necklace&jd_necklace_new&ZooFaker_Necklace&jd_angryKoi&jd_carnivalcity&jd_carnivalcity_help&gua_xmGame&jd_dyj_help&jd_fan&jd_golden_machine&jd_mohe
     - timer: #超级直播间盲盒抽京豆#骁龙品牌日#财富岛收气球#口袋书店#半点京豆雨#京东天天加速#京东抽奖机#京东排行榜#财富大陆互助#东东健康社区#东东健康社区收集能量#超级直播间盲盒抽京豆#超级直播间红包雨#整点京豆雨
