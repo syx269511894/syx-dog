@@ -47,18 +47,18 @@ inputs:
           cronExpression: "40,1 0-23/1 * * *"
           enable: true
           argument: jd_jxqd_new&jd_joy_park&jd_joy_steal&
-    - timer: #京东秒秒币#真·抢京豆#升级赚京豆#早起福利#签到脚本#愤怒的现金#天天优惠大乐透#赚30元 #领金贴#新潮品牌狂欢#京喜领88元红包#京喜签到#京喜签到新签到#幸运大转盘#闪购盲盒#来客有礼小程序#柠檬邀请有礼#抢京豆#宠汪汪赛跑助力#京东到家鲜豆任务#京东到家果园 #京东到家果园水车#京东到家鲜豆庄园收水滴#京东到家鲜豆庄园#京东签到图形验证
+    - timer: #京东秒秒币#真·抢京豆#升级赚京豆#签到脚本#愤怒的现金#天天优惠大乐透#赚30元 #领金贴#新潮品牌狂欢#京喜领88元红包#京喜签到#京喜签到新签到#幸运大转盘#闪购盲盒#来客有礼小程序#柠檬邀请有礼#抢京豆#宠汪汪赛跑助力#京东到家鲜豆任务#京东到家果园 #京东到家果园水车#京东到家鲜豆庄园收水滴#京东到家鲜豆庄园#京东签到图形验证
         parameters:
           name: 6jd_ms
           cronExpression: "0 10,20,30,40,50 0-23/1 * * * *"
           enable: true
-          argument: jd_ms&jd_angryBean&gua_MMdou&jd_goodMorning&jd_zqfl&JD_DailyBonus&jd_fakersign&jd_angryCash&jd_dpqd&jd_earn30&jd_jin_tie&jd_mcxhd&jd_jxlhb&jd_jxqd&jx_sign&jd_market_lottery&jd_sgmh&jd_sendBeans&jd_yqyl&jd_bean_home&jd_joy_run&jd_dj_bean&jd_dj_fruit&jd_dj_fruit_collectWater&jd_dj_getPoints&jd_dj_plantBeans&jd_sign_graphics
-    - timer: #清空购物车#财富岛红包#美丽研究院#东东农场#宠汪汪#点点券#手机狂欢城#手机狂欢城活动#热血心跳,狂解压#发财大赢家助力#粉丝互动#金机奖投票#5G超级盲盒
+          argument: jd_ms&jd_angryBean&gua_MMdou&jd_goodMorning&jd_fakersign&jd_angryCash&jd_dpqd&jd_earn30&jd_jin_tie&jd_mcxhd&jd_jxlhb&jd_jxqd&jx_sign&jd_market_lottery&jd_sgmh&jd_sendBeans&jd_yqyl&jd_bean_home&jd_joy_run&jd_dj_bean&jd_dj_fruit&jd_dj_fruit_collectWater&jd_dj_getPoints&jd_dj_plantBeans&jd_sign_graphics
+    - timer: #清空购物车#财富岛红包#东东农场#宠汪汪#点点券#手机狂欢城#手机狂欢城活动#热血心跳,狂解压#发财大赢家助力#粉丝互动#金机奖投票#5G超级盲盒#美丽研究院
         parameters:
           name: 7jd_mohe
           cronExpression: "1,1 0-23/1 * * *"
           enable: true
-          argument: jd_cleancart&jd_beauty&jd_fruit&jd_joy&jd_joy_feedPets&jd_joy_help&jd_joypark_task&jd_joy_park_help&jd_jxnc&adolf_jxhb&jd_necklace&jd_necklace_new&ZooFaker_Necklace&jd_angryKoi&jd_carnivalcity&jd_carnivalcity_help&gua_xmGame&jd_dyj_help&jd_fan&jd_golden_machine&jd_mohe
+          argument: jd_cleancart&jd_fruit&jd_joy&jd_joy_feedPets&jd_joy_help&jd_joypark_task&jd_joy_park_help&jd_jxnc&adolf_jxhb&jd_necklace&jd_necklace_new&ZooFaker_Necklace&jd_angryKoi&jd_carnivalcity&jd_carnivalcity_help&gua_xmGame&jd_dyj_help&jd_fan&jd_golden_machine&jd_mohe&jd_beauty
     - timer: #超级直播间盲盒抽京豆#骁龙品牌日#财富岛收气球#口袋书店#半点京豆雨#京东天天加速#京东抽奖机#京东排行榜#财富大陆互助#东东健康社区#东东健康社区收集能量#超级直播间盲盒抽京豆#超级直播间红包雨#整点京豆雨
         parameters:
           name: 8jd_cfdqiqiu
@@ -71,12 +71,12 @@ inputs:
           cronExpression: "0 14,44 9,8-23/1 * * * *"
           enable: true
           argument: jd_qcshj&jd_lsj&jd_twlove&jd_productZ4Brand&jd_wxFans&jd_ylyn&jd_wsdlb&jd_wish&jd_chinajoy&jd_qixi&gua_doge&jd_ppdz&jd_joy-park&jd_fcdyj&jd_fc&jd_kanjia&jd_foodRunning&jd_kanjia3&zy_ldhwj&jd_ryhxj&jd_qqxing&jd_olympicgames_guard&jd_redPacket&jd_kanjia2&zy_ryhxj
-    - timer: #民奥运 激情奔跑#奥运夺金牌开卡#柠檬一次性开卡#汪汪乐园养joy#汪汪乐园脚本#京享值PK#价格保护#奶爸盛典 爸气全开#财富大陆#早起赢现金#京东多合一签到
+    - timer: #民奥运 激情奔跑#奥运夺金牌开卡#柠檬一次性开卡#汪汪乐园养joy#汪汪乐园脚本#京享值PK#价格保护#奶爸盛典 爸气全开#财富大陆#早起赢现金#京东多合一签到#早起福利
         parameters:
           name: 10gua-opencard
           cronExpression: "0 13,43 9,8-23/1 * * * *"
           enable: true
-          argument: gua_olympic_opencard2&gua_opencard4&gua_opencard5&gua_opencard6&gua_opencard7&jd_joypark_joy&jd_opencard2&jd_joy_park_newtask&jd_jxzpk&jd_priceProtect&jx_cfdhb&jd_opencard_Daddy&gua_wealth_island&jd_morningSc&jd_bean_sign&gua_olympic_opencard
+          argument: gua_olympic_opencard2&gua_opencard4&gua_opencard5&gua_opencard6&gua_opencard7&jd_joypark_joy&jd_opencard2&jd_joy_park_newtask&jd_jxzpk&jd_priceProtect&jx_cfdhb&jd_opencard_Daddy&gua_wealth_island&jd_morningSc&jd_bean_sign&gua_olympic_opencard&jd_zqfl&JD_DailyBonus
   environment: #  环境变量
     variables: #  环境变量对象
       AAA: BBB # 不要删除，用来格式化对齐追加的变量的
