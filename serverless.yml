@@ -32,33 +32,33 @@ inputs:
     - timer: #京东月资产变动通知#京豆变动通知#取关主播#京喜牧场#东东萌宠#小米-星空大冒险#京东试用
         parameters:
           name: 3jd_try
-          cronExpression: "0 30 7 * * * *"
+          cronExpression: "0 30 0,7 * * * *"
           enable: true
           argument: jd_all_bean_change&jd_bean_change&jd_unsubscriLive&jd_jxmc&jd_pet&gua_xmGame&jd_try
-    - timer: #玩一玩成就#翻翻乐#东东乐园#东东电竞经理#摇钱树#京东全民开红包#东东超市#天天提鹅#金融养猪#京喜工厂#东东小窝#东东工厂#京东快递签到#京东直播#京东赚赚#狂欢欧洲杯#金榜创造营#京东零食街#全民挖现金#全民抢京豆#明星小店#特物Z|万物#特务Z行动-星小店#特物Z密室大逃脱#旺财乐园#京东全民开红包#滴滴橙心果园脚本#京喜财富岛
+    - timer: #玩一玩成就#翻翻乐#东东乐园#东东电竞经理#摇钱树#京东全民开红包#东东超市#天天提鹅#金融养猪#京喜工厂#东东小窝#东东工厂#京东快递签到#京东直播#京东赚赚#狂欢欧洲杯#金榜创造营#京东零食街#全民挖现金#全民抢京豆#明星小店#特物Z|万物#特务Z行动-星小店#特物Z密室大逃脱#旺财乐园#京东全民开红包#滴滴橙心果园脚本#京喜财富岛#种豆得豆
         parameters:
           name: 4jd_joy-park
           cronExpression: "2 15,45 7,8-23/2 * * * *"
           enable: true
-          argument: jd_wyw&jd_big_winner&jd_fcffl&jd_ddnc_farmpark&jd_Elecsport&jd_esManager&jd_djjl&jd_moneyTree&jd_redPacket&jd_superMarket&jd_daily_egg&jd_pigPet&jd_dreamFactory&jd_small_home&jd_jdfactory&jd_kd&jd_live&jd_jdzz&jd_europeancup&jd_gold_creator&jd_wxj&jd_qjd&jd_star_shop&jd_superBrand&jd_twz-star&jd_twmsdtt&jd_joy-park&jd_redPacket&dd_bucketWater&jx_cfd&
+          argument: jd_wyw&jd_big_winner&jd_fcffl&jd_ddnc_farmpark&jd_Elecsport&jd_esManager&jd_djjl&jd_moneyTree&jd_redPacket&jd_superMarket&jd_daily_egg&jd_pigPet&jd_dreamFactory&jd_small_home&jd_jdfactory&jd_kd&jd_live&jd_jdzz&jd_europeancup&jd_gold_creator&jd_wxj&jd_qjd&jd_star_shop&jd_superBrand&jd_twz-star&jd_twmsdtt&jd_joy-park&jd_redPacket&dd_bucketWater&jx_cfd&jd_plantBean
     - timer: #京喜签到新签到#宠汪汪偷狗粮
         parameters:
           name: 5joy_park
           cronExpression: "40,1 0-23/1 * * *"
           enable: true
           argument: jd_jxqd_new&jd_joy_park&jd_joy_steal&
-    - timer: #京东秒秒币#真·抢京豆#升级赚京豆#签到脚本#愤怒的现金#天天优惠大乐透#赚30元 #领金贴#新潮品牌狂欢#京喜领88元红包#京喜签到#京喜签到新签到#幸运大转盘#闪购盲盒#来客有礼小程序#柠檬邀请有礼#抢京豆#宠汪汪赛跑助力#京东到家鲜豆任务#京东到家果园 #京东到家果园水车#京东到家鲜豆庄园收水滴#京东到家鲜豆庄园#京东签到图形验证
+    - timer: #极速版签到+赚现金#开学充电站#京东秒秒币#真·抢京豆#升级赚京豆#签到脚本#愤怒的现金#天天优惠大乐透#赚30元 #领金贴#新潮品牌狂欢#京喜领88元红包#京喜签到#京喜签到新签到#幸运大转盘#闪购盲盒#来客有礼小程序#柠檬邀请有礼#抢京豆#宠汪汪赛跑助力#京东到家鲜豆任务#京东到家果园 #京东到家果园水车#京东到家鲜豆庄园收水滴#京东到家鲜豆庄园#京东签到图形验证
         parameters:
           name: 6jd_ms
           cronExpression: "0 10,20,30,40,50 0-23/1 * * * *"
           enable: true
-          argument: jd_ms&jd_angryBean&gua_MMdou&jd_goodMorning&jd_fakersign&jd_angryCash&jd_dpqd&jd_earn30&jd_jin_tie&jd_mcxhd&jd_jxlhb&jd_jxqd&jx_sign&jd_market_lottery&jd_sgmh&jd_sendBeans&jd_yqyl&jd_bean_home&jd_joy_run&jd_dj_bean&jd_dj_fruit&jd_dj_fruit_collectWater&jd_dj_getPoints&jd_dj_plantBeans&jd_sign_graphics
-    - timer: #清空购物车#财富岛红包#东东农场#宠汪汪#点点券#手机狂欢城#手机狂欢城活动#热血心跳,狂解压#发财大赢家助力#粉丝互动#金机奖投票#5G超级盲盒#美丽研究院
+          argument: jd_speed_sign&zy_kxcdz&jd_ms&jd_angryBean&gua_MMdou&jd_goodMorning&jd_fakersign&jd_angryCash&jd_dpqd&jd_earn30&jd_jin_tie&jd_mcxhd&jd_jxlhb&jd_jxqd&jx_sign&jd_market_lottery&jd_sgmh&jd_sendBeans&jd_yqyl&jd_bean_home&jd_joy_run&jd_dj_bean&jd_dj_fruit&jd_dj_fruit_collectWater&jd_dj_getPoints&jd_dj_plantBeans&jd_sign_graphics
+    - timer: #清空购物车#东东农场#宠汪汪#签到领现金#点点券#手机狂欢城#手机狂欢城活动#热血心跳,狂解压#发财大赢家助力#粉丝互动#金机奖投票#5G超级盲盒#美丽研究院
         parameters:
           name: 7jd_mohe
           cronExpression: "1,1 0-23/1 * * *"
           enable: true
-          argument: jd_cleancart&jd_fruit&jd_joy&jd_joy_feedPets&jd_joy_help&jd_joypark_task&jd_joy_park_help&jd_jxnc&adolf_jxhb&jd_necklace&jd_necklace_new&ZooFaker_Necklace&jd_angryKoi&jd_carnivalcity&jd_carnivalcity_help&gua_xmGame&jd_dyj_help&jd_fan&jd_golden_machine&jd_mohe&jd_beauty
+          argument: jd_cleancart&jd_fruit&jd_joy&jd_cash&jd_joy_feedPets&jd_joy_help&jd_joypark_task&jd_joy_park_help&jd_jxnc&adolf_jxhb&jd_necklace&jd_necklace_new&ZooFaker_Necklace&jd_angryKoi&jd_carnivalcity&jd_carnivalcity_help&gua_xmGame&jd_dyj_help&jd_fan&jd_golden_machine&jd_mohe&jd_beauty
     - timer: #超级直播间盲盒抽京豆#骁龙品牌日#财富岛收气球#口袋书店#半点京豆雨#京东天天加速#京东抽奖机#京东排行榜#财富大陆互助#东东健康社区#东东健康社区收集能量#超级直播间盲盒抽京豆#超级直播间红包雨#整点京豆雨
         parameters:
           name: 8jd_cfdqiqiu
