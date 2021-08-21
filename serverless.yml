@@ -47,12 +47,12 @@ inputs:
           cronExpression: "40,1 0-23/1 * * *"
           enable: true
           argument: jd_jxqd_new&jd_joy_park&jd_joy_steal&
-    - timer: #极速版签到+赚现金#开学充电站#京东秒秒币#真·抢京豆#升级赚京豆#签到脚本#愤怒的现金#天天优惠大乐透#赚30元 #领金贴#新潮品牌狂欢#京喜领88元红包#京喜签到#京喜签到新签到#幸运大转盘#闪购盲盒#来客有礼小程序#柠檬邀请有礼#抢京豆#宠汪汪赛跑助力#京东到家鲜豆任务#京东到家果园 #京东到家果园水车#京东到家鲜豆庄园收水滴#京东到家鲜豆庄园#京东签到图形验证
+    - timer: #极速版签到+赚现金#京东秒秒币#真·抢京豆#升级赚京豆#签到脚本#愤怒的现金#天天优惠大乐透#赚30元 #领金贴#新潮品牌狂欢#京喜领88元红包#京喜签到#京喜签到新签到#幸运大转盘#闪购盲盒#来客有礼小程序#柠檬邀请有礼#抢京豆#宠汪汪赛跑助力#京东到家鲜豆任务#京东到家果园 #京东到家果园水车#京东到家鲜豆庄园收水滴#京东到家鲜豆庄园#京东签到图形验证#开学充电站
         parameters:
           name: 6jd_ms
           cronExpression: "0 10,20,30,40,50 0-23/1 * * * *"
           enable: true
-          argument: jd_speed_sign&zy_kxcdz&jd_ms&jd_angryBean&gua_MMdou&jd_goodMorning&jd_fakersign&jd_angryCash&jd_dpqd&jd_earn30&jd_jin_tie&jd_mcxhd&jd_jxlhb&jd_jxqd&jx_sign&jd_market_lottery&jd_sgmh&jd_sendBeans&jd_yqyl&jd_bean_home&jd_joy_run&jd_dj_bean&jd_dj_fruit&jd_dj_fruit_collectWater&jd_dj_getPoints&jd_dj_plantBeans&jd_sign_graphics
+          argument: jd_speed_sign&jd_ms&jd_angryBean&gua_MMdou&jd_goodMorning&jd_fakersign&jd_angryCash&jd_dpqd&jd_earn30&jd_jin_tie&jd_mcxhd&jd_jxlhb&jd_jxqd&jx_sign&jd_market_lottery&jd_sgmh&jd_sendBeans&jd_yqyl&jd_bean_home&jd_joy_run&jd_dj_bean&jd_dj_fruit&jd_dj_fruit_collectWater&jd_dj_getPoints&jd_dj_plantBeans&jd_sign_graphics&zy_kxcdz
     - timer: #清空购物车#东东农场#宠汪汪#签到领现金#点点券#手机狂欢城#手机狂欢城活动#热血心跳,狂解压#发财大赢家助力#粉丝互动#金机奖投票#5G超级盲盒#美丽研究院
         parameters:
           name: 7jd_mohe
