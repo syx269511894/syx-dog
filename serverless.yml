@@ -52,7 +52,7 @@ inputs:
           name: 6jd_ms
           cronExpression: "0 10,20,30,40,50 0-23/1 * * * *"
           enable: true
-          argument: jd_speed_sign&jd_ms&jd_angryBean&gua_MMdou&jd_goodMorning&jd_angryCash&jd_dpqd&jd_earn30&jd_jin_tie&jd_mcxhd&jd_jxlhb&jd_jxqd&jx_sign&jd_market_lottery&jd_sgmh&jd_sendBeans&jd_yqyl&jd_bean_home&jd_joy_run&jd_dj_bean&jd_dj_fruit&jd_dj_fruit_collectWater&jd_dj_getPoints&jd_dj_plantBeans&jd_sign_graphics&zy_kxcdz
+          argument: jd_speed_sign&jd_ms&jd_angryBean&gua_MMdou&jd_goodMorning&jd_dpqd&jd_earn30&jd_jin_tie&jd_mcxhd&jd_jxlhb&jd_jxqd&jx_sign&jd_market_lottery&jd_sgmh&jd_sendBeans&jd_yqyl&jd_bean_home&jd_joy_run&jd_dj_bean&jd_dj_fruit&jd_dj_fruit_collectWater&jd_dj_getPoints&jd_dj_plantBeans&jd_sign_graphics&zy_kxcdz
     - timer: #清空购物车#东东农场#宠汪汪#签到领现金#点点券#手机狂欢城#手机狂欢城活动#热血心跳,狂解压#发财大赢家助力#粉丝互动#金机奖投票#5G超级盲盒#美丽研究院
         parameters:
           name: 7jd_mohe
@@ -76,7 +76,7 @@ inputs:
           name: 10gua-opencard
           cronExpression: "0 13,43 9,8-23/1 * * * *"
           enable: true
-          argument: gua_olympic_opencard2&gua_opencard4&gua_opencard5&gua_opencard6&gua_opencard7&jd_joypark_joy&jd_opencard2&jd_joy_park_newtask&jd_jxzpk&jd_priceProtect&jx_cfdhb&jd_opencard_Daddy&gua_wealth_island&jd_morningSc&jd_bean_sign&gua_olympic_opencard&jd_zqfl&JD_DailyBonus
+          argument: gua_olympic_opencard2&gua_opencard4&gua_opencard5&gua_opencard6&gua_opencard7&jd_opencard2&jd_joy_park_newtask&jd_jxzpk&jd_priceProtect&jx_cfdhb&jd_opencard_Daddy&gua_wealth_island&jd_morningSc&jd_bean_sign&gua_olympic_opencard&jd_zqfl&jd_joypark_joy&JD_DailyBonus&jd_angryCash
   environment: #  环境变量
     variables: #  环境变量对象
       AAA: BBB # 不要删除，用来格式化对齐追加的变量的
