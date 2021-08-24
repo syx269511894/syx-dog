@@ -6,7 +6,7 @@ name: 申请试用
 on:
   workflow_dispatch:
   schedule:
-    - cron: '45 15 * * *'
+    - cron: '0 0 0,0-22/3 * * * *'
   watch:
         types: started
   repository_dispatch:
